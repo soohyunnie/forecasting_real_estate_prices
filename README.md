@@ -76,14 +76,11 @@ Both the forecasts and associated confidence interval that we have generated can
 
 # Respository Structure
 ```
-├── Working_Notebook
-│   ├──      
-│   ├──      
-│   ├──   
-│   └── 
+├── ignore - working notebooks
 ├── images  
 ├── .gitignore
 ├── EDA_Data_Processing.ipynb
+├── Maps.ipynb
 ├── Zipcode_02558.ipynb
 ├── Zipcode_11216.ipynb
 ├── Zipcode_11222.ipynb
